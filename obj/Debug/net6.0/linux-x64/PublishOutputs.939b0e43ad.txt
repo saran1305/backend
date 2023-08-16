@@ -1,0 +1,12 @@
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\DEMO-SAR-1
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\aws-beanstalk-tools-defaults.json
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\DEMO-SAR-1.dll
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\DEMO-SAR-1.deps.json
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\DEMO-SAR-1.runtimeconfig.json
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\DEMO-SAR-1.pdb
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LTP-4\source\repos\DEMO-SAR-1\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

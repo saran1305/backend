@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-demosar1-dev-235627-authRole",
+      "UnauthRoleArn": "arn:aws:iam::500338281575:role/amplify-demosar1-dev-235627-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::500338281575:role/amplify-demosar1-dev-235627-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-demosar1-dev-235627-deployment",
+      "UnauthRoleName": "amplify-demosar1-dev-235627-unauthRole",
+      "StackName": "amplify-demosar1-dev-235627",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:500338281575:stack/amplify-demosar1-dev-235627/6cf17890-3c62-11ee-ac47-0a5a3b1cdb8a",
+      "AmplifyAppId": "d3ovqio85956q0"
+    },
+    "categories": {
+      "function": {
+        "demosar14d98b9e3": {}
+      }
+    }
+  }
+}
